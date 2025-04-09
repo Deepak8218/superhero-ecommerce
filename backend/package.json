@@ -18,8 +18,8 @@
     "mongoose": "^8.13.2"
   },
   "type": "module",
-  "description": "",
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "description": ""
 }
